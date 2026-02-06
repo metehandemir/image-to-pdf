@@ -189,7 +189,7 @@ function Home() {
     <div className="min-h-screen flex flex-col items-center px-4 py-16 sm:py-24">
       {/* Header */}
       <div className="text-center mb-12 max-w-xl">
-        <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-border text-xs text-muted mb-6 font-mono">
+        <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-border text-xs text-muted mb-6">
           <span className="inline-block w-1.5 h-1.5 rounded-full bg-emerald-500" />
           Open Source &middot; Free &middot; No upload &middot; Runs locally
         </div>
